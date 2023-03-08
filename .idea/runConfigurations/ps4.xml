@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ps4" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="true" USE_EXTERNAL_CONSOLE="true" WORKING_DIR="file://$ContentRoot$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mast1c0re-ps2-network-elf-loader" TARGET_NAME="build" CONFIG_NAME="build" version="1" RUN_PATH="$USER_HOME$/.wakatime/wakatime-cli-windows-amd64.exe">
+    <method v="2">
+      <option name="CLION.COMPOUND.BUILD" enabled="true" />
+    </method>
+  </configuration>
+</component>
